@@ -3,7 +3,8 @@
 
 Here comes a list of Open Source projects where you can contribute without any programming knowledge.
 
-Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners/) (Copied: Copyrights waived)
+Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners/) 
+(Copied: Copyrights waived)
 
 
 ## Beginner's/Non-Programmers projects
